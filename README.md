@@ -1,0 +1,1 @@
+***--- 自定义验证码位数需要修改文件 vendor/gregwar/captcha/PhraseBuilder.php***
